@@ -1,0 +1,5 @@
+C:\Programs\C#Programs\BasicCalculator\bin\Debug\net7.0\publish\Calculator.exe
+C:\Programs\C#Programs\BasicCalculator\bin\Debug\net7.0\publish\Calculator.dll
+C:\Programs\C#Programs\BasicCalculator\bin\Debug\net7.0\publish\Calculator.deps.json
+C:\Programs\C#Programs\BasicCalculator\bin\Debug\net7.0\publish\Calculator.runtimeconfig.json
+C:\Programs\C#Programs\BasicCalculator\bin\Debug\net7.0\publish\Calculator.pdb
